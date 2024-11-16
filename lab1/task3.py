@@ -1,5 +1,5 @@
 # Чтение файла
-with open('/root/lab1/files/third_task.txt', 'r', encoding='utf-8') as file: 
+with open('lab1/files/third_task.txt', 'r', encoding='utf-8') as file: 
     rows = file.readlines() 
  
 # Создаем список для суммы строк 
@@ -25,5 +25,5 @@ for row in rows:
     row_avg.append(int(round((sum(multiple_nums)) / len(multiple_nums), 0)))
  
 # Сохраняем файл
-with open('/root/lab1/files/results/task3.txt', 'w', encoding='utf-8') as file: 
+with open('lab1/files/results/task3.txt', 'w', encoding='utf-8') as file: 
     file.write('\n'.join(map(str, row_avg)))
