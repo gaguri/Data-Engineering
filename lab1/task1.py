@@ -2,7 +2,7 @@ import re
 
 #ЗАДАНИЕ 1.1
 # Чтение файла
-with open ('/root/lab1/files/first_task.txt', 'r', encoding='utf-8') as file:
+with open ('lab1/files/first_task.txt', 'r', encoding='utf-8') as file:
     text=file.read()
 
 # Замена знаков препинания на пробел
