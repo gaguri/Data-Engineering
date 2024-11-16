@@ -27,7 +27,7 @@ for word in words:
 word_list = sorted(word_list.items(), key=lambda x: x[1], reverse=True)
 
 # Сохранение в файл
-with open("/root/lab1/files/results/task1_1.txt", "w") as file:
+with open("lab1/files/results/task1_1.txt", "w") as file:
         for key, value in word_list:
             file.write(f"{key}: {value}\n")
 
@@ -42,6 +42,6 @@ sentences_count = len([sentence.strip() for sentence in re.split(r'[.?!\n]', tex
 avg_words = words_count/sentences_count
 
 # Сохранение в файл
-with open("/root/lab1/files/results/task1_2.txt", "w") as file:
+with open("lab1/files/results/task1_2.txt", "w") as file:
             file.write(f"Среднее количество слов без округления: {avg_words}\n\
 Среднее количество слов с округлением: {avg_words:.0f}")
