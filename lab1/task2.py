@@ -1,7 +1,7 @@
 import math
 
 # Чтение файла
-with open ('/root/lab1/files/second_task.txt', 'r', encoding='utf-8') as file:
+with open ('lab1/files/second_task.txt', 'r', encoding='utf-8') as file:
     lines=file.readlines()
     table = []
     for line in lines:
@@ -21,6 +21,6 @@ for sublist in filtered_table:
 sum_sqrt_row.sort(reverse=True)
 
 # Сохранение в файл
-with open("/root/lab1/files/results/task2.txt", "w") as file:
+with open("lab1/files/results/task2.txt", "w") as file:
     for item in sum_sqrt_row[:10]:
             file.write(f"{item:.0f}\n")
