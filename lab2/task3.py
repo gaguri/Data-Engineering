@@ -2,7 +2,7 @@ import json
 import msgpack
 import os
 
-with open ('/root/lab2/files/third_task.json', 'r', encoding='utf-8') as file:
+with open ('lab2/files/third_task.json', 'r', encoding='utf-8') as file:
     items = json.load(file)
 
 items_dict = {}
@@ -37,10 +37,10 @@ for name in items_dict:
 
 to_save = list(items_dict.values())
 
-with open ('/root/lab2/files/results/task3_1.json', 'w', encoding='utf-8') as file:
+with open ('lab2/files/results/task3_1.json', 'w', encoding='utf-8') as file:
     json.dump(to_save, file, ensure_ascii=False, indent=1)
 
-with open ('/root/lab2/files/results/task3_2.msgpack', 'wb') as file:
+with open ('lab2/files/results/task3_2.msgpack', 'wb') as file:
     msgpack.dump(to_save, file)
 
 json_size =  os.path.getsize('/root/lab2/files/results/task3_1.json')
