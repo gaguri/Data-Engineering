@@ -1,0 +1,772 @@
+[
+ {
+  "name": "Архыз",
+  "max_price": 8823,
+  "min_price": 1695,
+  "avg_price": 5634.722222222223,
+  "count": 18
+ },
+ {
+  "name": "Черника",
+  "max_price": 9711,
+  "min_price": 753,
+  "avg_price": 5504.192307692308,
+  "count": 26
+ },
+ {
+  "name": "Кабачок",
+  "max_price": 9965,
+  "min_price": 375,
+  "avg_price": 4343.526315789473,
+  "count": 19
+ },
+ {
+  "name": "Ливерная колбаса",
+  "max_price": 9338,
+  "min_price": 899,
+  "avg_price": 4288.363636363636,
+  "count": 11
+ },
+ {
+  "name": "Burn",
+  "max_price": 9272,
+  "min_price": 3770,
+  "avg_price": 6800.166666666667,
+  "count": 6
+ },
+ {
+  "name": "Варенец",
+  "max_price": 9712,
+  "min_price": 287,
+  "avg_price": 4513.105263157895,
+  "count": 19
+ },
+ {
+  "name": "Гель после бритья",
+  "max_price": 9516,
+  "min_price": 375,
+  "avg_price": 4840.95,
+  "count": 20
+ },
+ {
+  "name": "Абрикос",
+  "max_price": 9785,
+  "min_price": 558,
+  "avg_price": 5481.833333333333,
+  "count": 12
+ },
+ {
+  "name": "Тан",
+  "max_price": 9845,
+  "min_price": 280,
+  "avg_price": 4533.214285714285,
+  "count": 28
+ },
+ {
+  "name": "Королевская",
+  "max_price": 9923,
+  "min_price": 2270,
+  "avg_price": 7097.727272727273,
+  "count": 11
+ },
+ {
+  "name": "Новошахтинская",
+  "max_price": 9831,
+  "min_price": 2485,
+  "avg_price": 5860.166666666667,
+  "count": 6
+ },
+ {
+  "name": "Айва",
+  "max_price": 9735,
+  "min_price": 204,
+  "avg_price": 4460.2307692307695,
+  "count": 13
+ },
+ {
+  "name": "Хурма",
+  "max_price": 9862,
+  "min_price": 1738,
+  "avg_price": 6568.0,
+  "count": 6
+ },
+ {
+  "name": "Матрасы",
+  "max_price": 7248,
+  "min_price": 2574,
+  "avg_price": 5062.375,
+  "count": 8
+ },
+ {
+  "name": "Шампунь",
+  "max_price": 8926,
+  "min_price": 1008,
+  "avg_price": 5356.35294117647,
+  "count": 17
+ },
+ {
+  "name": "Кружки",
+  "max_price": 9479,
+  "min_price": 1887,
+  "avg_price": 5318.142857142857,
+  "count": 7
+ },
+ {
+  "name": "Оленина",
+  "max_price": 9592,
+  "min_price": 400,
+  "avg_price": 4997.75,
+  "count": 12
+ },
+ {
+  "name": "Грейпфрут",
+  "max_price": 9904,
+  "min_price": 2123,
+  "avg_price": 6919.666666666667,
+  "count": 6
+ },
+ {
+  "name": "Горох",
+  "max_price": 9892,
+  "min_price": 222,
+  "avg_price": 5356.033333333334,
+  "count": 30
+ },
+ {
+  "name": "Груша",
+  "max_price": 8869,
+  "min_price": 227,
+  "avg_price": 5033.190476190476,
+  "count": 21
+ },
+ {
+  "name": "Сок грейпфрутовый",
+  "max_price": 8922,
+  "min_price": 401,
+  "avg_price": 5581.666666666667,
+  "count": 6
+ },
+ {
+  "name": "Геркулес",
+  "max_price": 9697,
+  "min_price": 522,
+  "avg_price": 5315.7,
+  "count": 10
+ },
+ {
+  "name": "Свалява",
+  "max_price": 9780,
+  "min_price": 990,
+  "avg_price": 5480.75,
+  "count": 12
+ },
+ {
+  "name": "Малина",
+  "max_price": 9884,
+  "min_price": 1098,
+  "avg_price": 5834.0,
+  "count": 6
+ },
+ {
+  "name": "Омская",
+  "max_price": 8007,
+  "min_price": 118,
+  "avg_price": 4545.363636363636,
+  "count": 11
+ },
+ {
+  "name": "Молоко",
+  "max_price": 8766,
+  "min_price": 421,
+  "avg_price": 5407.454545454545,
+  "count": 11
+ },
+ {
+  "name": "Рыбинская",
+  "max_price": 9424,
+  "min_price": 141,
+  "avg_price": 5187.2,
+  "count": 10
+ },
+ {
+  "name": "Прошутто",
+  "max_price": 9630,
+  "min_price": 1018,
+  "avg_price": 5856.0,
+  "count": 20
+ },
+ {
+  "name": "Паприка сладкая молотая",
+  "max_price": 9023,
+  "min_price": 305,
+  "avg_price": 3564.2,
+  "count": 15
+ },
+ {
+  "name": "Кондиционер для белья",
+  "max_price": 9611,
+  "min_price": 344,
+  "avg_price": 5144.7692307692305,
+  "count": 26
+ },
+ {
+  "name": "Шафран молотый",
+  "max_price": 9226,
+  "min_price": 791,
+  "avg_price": 5094.555555555556,
+  "count": 9
+ },
+ {
+  "name": "Лимон",
+  "max_price": 8883,
+  "min_price": 230,
+  "avg_price": 4865.0,
+  "count": 9
+ },
+ {
+  "name": "Ветчина",
+  "max_price": 9982,
+  "min_price": 245,
+  "avg_price": 4905.266666666666,
+  "count": 15
+ },
+ {
+  "name": "Цветная капуста",
+  "max_price": 9900,
+  "min_price": 486,
+  "avg_price": 5122.428571428572,
+  "count": 14
+ },
+ {
+  "name": "Робот-пылесос",
+  "max_price": 8823,
+  "min_price": 2147,
+  "avg_price": 6037.444444444444,
+  "count": 18
+ },
+ {
+  "name": "Кефир",
+  "max_price": 9787,
+  "min_price": 1537,
+  "avg_price": 5484.142857142857,
+  "count": 7
+ },
+ {
+  "name": "Варено-копченая колбаса",
+  "max_price": 9922,
+  "min_price": 1005,
+  "avg_price": 4811.625,
+  "count": 8
+ },
+ {
+  "name": "Кола",
+  "max_price": 7195,
+  "min_price": 342,
+  "avg_price": 4156.285714285715,
+  "count": 7
+ },
+ {
+  "name": "Зеленый перец молотый",
+  "max_price": 8516,
+  "min_price": 339,
+  "avg_price": 6182.0,
+  "count": 7
+ },
+ {
+  "name": "Шелковица",
+  "max_price": 9576,
+  "min_price": 367,
+  "avg_price": 4816.1,
+  "count": 20
+ },
+ {
+  "name": "Кориандр молотый",
+  "max_price": 9250,
+  "min_price": 363,
+  "avg_price": 5386.6,
+  "count": 5
+ },
+ {
+  "name": "Сливки",
+  "max_price": 9863,
+  "min_price": 432,
+  "avg_price": 5221.678571428572,
+  "count": 28
+ },
+ {
+  "name": "Салями",
+  "max_price": 9670,
+  "min_price": 952,
+  "avg_price": 4725.1875,
+  "count": 16
+ },
+ {
+  "name": "Эндивий",
+  "max_price": 8857,
+  "min_price": 782,
+  "avg_price": 4628.9375,
+  "count": 16
+ },
+ {
+  "name": "Лопатка",
+  "max_price": 9953,
+  "min_price": 1434,
+  "avg_price": 6112.294117647059,
+  "count": 17
+ },
+ {
+  "name": "Тимьян сушеный",
+  "max_price": 6358,
+  "min_price": 161,
+  "avg_price": 3754.8333333333335,
+  "count": 6
+ },
+ {
+  "name": "Орехи (грецкий орех, миндаль, фундук)",
+  "max_price": 9887,
+  "min_price": 3891,
+  "avg_price": 7364.5,
+  "count": 8
+ },
+ {
+  "name": "Масло сливочное",
+  "max_price": 9995,
+  "min_price": 273,
+  "avg_price": 5555.055555555556,
+  "count": 18
+ },
+ {
+  "name": "Чувашская",
+  "max_price": 9254,
+  "min_price": 963,
+  "avg_price": 5257.125,
+  "count": 8
+ },
+ {
+  "name": "Простокваша",
+  "max_price": 8092,
+  "min_price": 801,
+  "avg_price": 4155.5,
+  "count": 6
+ },
+ {
+  "name": "Крыжовник",
+  "max_price": 9597,
+  "min_price": 1565,
+  "avg_price": 6311.916666666667,
+  "count": 12
+ },
+ {
+  "name": "Репа",
+  "max_price": 7744,
+  "min_price": 911,
+  "avg_price": 4458.0,
+  "count": 7
+ },
+ {
+  "name": "Макароны",
+  "max_price": 9212,
+  "min_price": 190,
+  "avg_price": 5160.882352941177,
+  "count": 17
+ },
+ {
+  "name": "Компот из сухофруктов",
+  "max_price": 7780,
+  "min_price": 1318,
+  "avg_price": 3609.0,
+  "count": 5
+ },
+ {
+  "name": "Цукини",
+  "max_price": 9771,
+  "min_price": 568,
+  "avg_price": 4891.736842105263,
+  "count": 19
+ },
+ {
+  "name": "Фенхель",
+  "max_price": 9707,
+  "min_price": 586,
+  "avg_price": 5654.0526315789475,
+  "count": 19
+ },
+ {
+  "name": "Амурская",
+  "max_price": 9996,
+  "min_price": 757,
+  "avg_price": 3577.4666666666667,
+  "count": 15
+ },
+ {
+  "name": "Рамбутан",
+  "max_price": 9598,
+  "min_price": 950,
+  "avg_price": 5562.285714285715,
+  "count": 28
+ },
+ {
+  "name": "Моющее средство для посуды",
+  "max_price": 8847,
+  "min_price": 326,
+  "avg_price": 4647.571428571428,
+  "count": 7
+ },
+ {
+  "name": "Ряженка",
+  "max_price": 9365,
+  "min_price": 1590,
+  "avg_price": 5744.2,
+  "count": 10
+ },
+ {
+  "name": "Каша из дробленого кускуса",
+  "max_price": 9869,
+  "min_price": 395,
+  "avg_price": 5456.277777777777,
+  "count": 18
+ },
+ {
+  "name": "Помело",
+  "max_price": 9743,
+  "min_price": 2887,
+  "avg_price": 6276.8,
+  "count": 5
+ },
+ {
+  "name": "Пакеты для рыбалки",
+  "max_price": 6431,
+  "min_price": 1187,
+  "avg_price": 4243.8,
+  "count": 5
+ },
+ {
+  "name": "Пакеты для инструментов",
+  "max_price": 9770,
+  "min_price": 222,
+  "avg_price": 4332.058823529412,
+  "count": 17
+ },
+ {
+  "name": "Рулька",
+  "max_price": 9841,
+  "min_price": 161,
+  "avg_price": 4010.3571428571427,
+  "count": 14
+ },
+ {
+  "name": "Кондиционер для волос",
+  "max_price": 9968,
+  "min_price": 417,
+  "avg_price": 5410.928571428572,
+  "count": 14
+ },
+ {
+  "name": "Источник Троицкий",
+  "max_price": 9934,
+  "min_price": 596,
+  "avg_price": 4302.277777777777,
+  "count": 18
+ },
+ {
+  "name": "Судакская",
+  "max_price": 9098,
+  "min_price": 1239,
+  "avg_price": 3887.2,
+  "count": 5
+ },
+ {
+  "name": "Пакеты многоразовые",
+  "max_price": 8253,
+  "min_price": 1071,
+  "avg_price": 4817.166666666667,
+  "count": 6
+ },
+ {
+  "name": "Турнепс",
+  "max_price": 9774,
+  "min_price": 600,
+  "avg_price": 4969.277777777777,
+  "count": 18
+ },
+ {
+  "name": "Камамбер",
+  "max_price": 8692,
+  "min_price": 369,
+  "avg_price": 4695.153846153846,
+  "count": 13
+ },
+ {
+  "name": "Петрушка корневая",
+  "max_price": 9990,
+  "min_price": 509,
+  "avg_price": 5469.95,
+  "count": 20
+ },
+ {
+  "name": "Кукуруза консервированная",
+  "max_price": 9700,
+  "min_price": 250,
+  "avg_price": 5615.571428571428,
+  "count": 14
+ },
+ {
+  "name": "Роллы с мясом",
+  "max_price": 8346,
+  "min_price": 425,
+  "avg_price": 4657.5,
+  "count": 12
+ },
+ {
+  "name": "Тарелки глубокие",
+  "max_price": 8954,
+  "min_price": 945,
+  "avg_price": 4648.818181818182,
+  "count": 11
+ },
+ {
+  "name": "Кристалл Байкала",
+  "max_price": 9917,
+  "min_price": 1513,
+  "avg_price": 4768.375,
+  "count": 8
+ },
+ {
+  "name": "Кавказская",
+  "max_price": 9777,
+  "min_price": 2216,
+  "avg_price": 6895.444444444444,
+  "count": 9
+ },
+ {
+  "name": "Майонез",
+  "max_price": 9077,
+  "min_price": 404,
+  "avg_price": 5061.388888888889,
+  "count": 18
+ },
+ {
+  "name": "Спаржа",
+  "max_price": 8576,
+  "min_price": 1297,
+  "avg_price": 5634.307692307692,
+  "count": 13
+ },
+ {
+  "name": "Тыква",
+  "max_price": 9133,
+  "min_price": 229,
+  "avg_price": 5112.368421052632,
+  "count": 19
+ },
+ {
+  "name": "Варенье",
+  "max_price": 9377,
+  "min_price": 142,
+  "avg_price": 4118.8,
+  "count": 5
+ },
+ {
+  "name": "Мацони",
+  "max_price": 9690,
+  "min_price": 128,
+  "avg_price": 5541.4,
+  "count": 20
+ },
+ {
+  "name": "Кровяная колбаса",
+  "max_price": 9325,
+  "min_price": 332,
+  "avg_price": 5138.277777777777,
+  "count": 18
+ },
+ {
+  "name": "Брокколи",
+  "max_price": 9798,
+  "min_price": 570,
+  "avg_price": 3197.4285714285716,
+  "count": 14
+ },
+ {
+  "name": "Мука ржаная",
+  "max_price": 9859,
+  "min_price": 1012,
+  "avg_price": 4770.25,
+  "count": 8
+ },
+ {
+  "name": "Ребрышки",
+  "max_price": 8718,
+  "min_price": 1192,
+  "avg_price": 5914.933333333333,
+  "count": 15
+ },
+ {
+  "name": "Дезодорант",
+  "max_price": 9195,
+  "min_price": 1124,
+  "avg_price": 5953.05,
+  "count": 20
+ },
+ {
+  "name": "Экзотические виды мяса (например, страус, кенгуру)",
+  "max_price": 9498,
+  "min_price": 345,
+  "avg_price": 4721.777777777777,
+  "count": 18
+ },
+ {
+  "name": "Карбонад",
+  "max_price": 9945,
+  "min_price": 291,
+  "avg_price": 4422.5,
+  "count": 14
+ },
+ {
+  "name": "Окра",
+  "max_price": 9920,
+  "min_price": 1005,
+  "avg_price": 6164.1,
+  "count": 20
+ },
+ {
+  "name": "Пакеты для фестиваля",
+  "max_price": 9699,
+  "min_price": 365,
+  "avg_price": 4505.277777777777,
+  "count": 18
+ },
+ {
+  "name": "Батат",
+  "max_price": 9979,
+  "min_price": 3078,
+  "avg_price": 6595.545454545455,
+  "count": 11
+ },
+ {
+  "name": "Пахта",
+  "max_price": 8485,
+  "min_price": 169,
+  "avg_price": 4955.636363636364,
+  "count": 11
+ },
+ {
+  "name": "Каша из дробленной ячневой крупы",
+  "max_price": 9276,
+  "min_price": 702,
+  "avg_price": 4228.846153846154,
+  "count": 13
+ },
+ {
+  "name": "Клюква",
+  "max_price": 9922,
+  "min_price": 1592,
+  "avg_price": 5014.9,
+  "count": 20
+ },
+ {
+  "name": "Укроп",
+  "max_price": 7652,
+  "min_price": 2316,
+  "avg_price": 4731.428571428572,
+  "count": 7
+ },
+ {
+  "name": "Monster Energy",
+  "max_price": 9601,
+  "min_price": 2858,
+  "avg_price": 6156.875,
+  "count": 8
+ },
+ {
+  "name": "Кольраби",
+  "max_price": 9340,
+  "min_price": 222,
+  "avg_price": 3644.875,
+  "count": 16
+ },
+ {
+  "name": "Гранат",
+  "max_price": 8879,
+  "min_price": 881,
+  "avg_price": 5324.363636363636,
+  "count": 11
+ },
+ {
+  "name": "Папайя",
+  "max_price": 9762,
+  "min_price": 1119,
+  "avg_price": 5209.4,
+  "count": 20
+ },
+ {
+  "name": "Каша из риса дикого",
+  "max_price": 9201,
+  "min_price": 129,
+  "avg_price": 4165.777777777777,
+  "count": 9
+ },
+ {
+  "name": "Озеро Медвежье",
+  "max_price": 9637,
+  "min_price": 804,
+  "avg_price": 4777.625,
+  "count": 8
+ },
+ {
+  "name": "Куриные крылышки",
+  "max_price": 9883,
+  "min_price": 1367,
+  "avg_price": 5611.222222222223,
+  "count": 18
+ },
+ {
+  "name": "Студень",
+  "max_price": 9986,
+  "min_price": 1135,
+  "avg_price": 4066.1666666666665,
+  "count": 6
+ },
+ {
+  "name": "Наволочки",
+  "max_price": 9441,
+  "min_price": 340,
+  "avg_price": 4156.222222222223,
+  "count": 9
+ },
+ {
+  "name": "Пылесос",
+  "max_price": 8908,
+  "min_price": 374,
+  "avg_price": 3394.769230769231,
+  "count": 13
+ },
+ {
+  "name": "Шумовки",
+  "max_price": 9989,
+  "min_price": 117,
+  "avg_price": 4736.8,
+  "count": 10
+ },
+ {
+  "name": "Инжир",
+  "max_price": 9505,
+  "min_price": 892,
+  "avg_price": 5141.857142857143,
+  "count": 7
+ },
+ {
+  "name": "Зубная щетка",
+  "max_price": 9576,
+  "min_price": 1402,
+  "avg_price": 4182.4,
+  "count": 5
+ },
+ {
+  "name": "Моцарелла",
+  "max_price": 7795,
+  "min_price": 231,
+  "avg_price": 4014.2,
+  "count": 20
+ }
+]
