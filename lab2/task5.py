@@ -3,7 +3,7 @@ import os
 import json
 
 # Чтение исходного файла
-df = pd.read_csv('/root/lab2/files/product_info.csv')
+df = pd.read_csv('lab2/files/product_info.csv')
 
 # Колонки, которые останутся
 columns_to_save = ['product_name', 'brand_name', 'loves_count', 'rating', 'reviews', 'price_usd', 'new', 'online_only', 'out_of_stock']
@@ -12,16 +12,16 @@ columns_to_save = ['product_name', 'brand_name', 'loves_count', 'rating', 'revie
 df_new = df[columns_to_save]
 
 # Coхранение обработанных файлов
-df_new.to_csv('/root/lab2/files/results/product_info_new.csv')                      #csv
-df_new.to_json('/root/lab2/files/results/product_info_new.json')                    #json
-df_new.to_pickle('/root/lab2/files/results/product_info_new.pkl')                   #pkl
-df_new.to_pickle('/root/lab2/files/results/product_info_new.msgpack', protocol=5)   #msgpack
+df_new.to_csv('lab2/files/results/product_info_new.csv')                      #csv
+df_new.to_json('lab2/files/results/product_info_new.json')                    #json
+df_new.to_pickle('lab2/files/results/product_info_new.pkl')                   #pkl
+df_new.to_pickle('lab2/files/results/product_info_new.msgpack', protocol=5)   #msgpack
 
 # Определяем размеры файлов
-csv_size =  os.path.getsize('/root/lab2/files/results/product_info_new.csv')
-json_size =  os.path.getsize('/root/lab2/files/results/product_info_new.json')
-pkl_size = os.path.getsize('/root/lab2/files/results/product_info_new.pkl')
-msgpack_size = os.path.getsize('/root/lab2/files/results/product_info_new.msgpack')
+csv_size =  os.path.getsize('lab2/files/results/product_info_new.csv')
+json_size =  os.path.getsize('lab2/files/results/product_info_new.json')
+pkl_size = os.path.getsize('lab2/files/results/product_info_new.pkl')
+msgpack_size = os.path.getsize('lab2/files/results/product_info_new.msgpack')
 
 print(f'csv size = {csv_size},\n\
 json size = {json_size},\n\
@@ -52,5 +52,5 @@ all_stats = {
     'text_stats': stat_text
 }
 
-with open ('/root/lab2/files/results/task5_stats.json', 'w') as file:
+with open ('lab2/files/results/task5_stats.json', 'w') as file:
     json.dump(all_stats, file, indent=1)
