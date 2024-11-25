@@ -1,10 +1,10 @@
 import pickle
 import json
 
-with open ('/root/lab2/files/fourth_task_products.json', 'rb') as file:
+with open ('lab2/files/fourth_task_products.json', 'rb') as file:
     products = pickle.load(file)
 
-with open ('/root/lab2/files/fourth_task_updates.json', 'r', encoding='utf-8') as file:
+with open ('lab2/files/fourth_task_updates.json', 'r', encoding='utf-8') as file:
     products_upd = json.load(file)
 
 product_map = {}
@@ -26,5 +26,5 @@ for upd in products_upd:
 
 products = list(product_map.values())
 
-with open ('/root/lab2/files/results/task4.pkl', 'wb') as file:
+with open ('lab2/files/results/task4.pkl', 'wb') as file:
     pickle.dump(products, file)
