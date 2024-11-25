@@ -1,7 +1,7 @@
 import json
 import numpy as np
 
-matrix = np.load('/root/lab2/files/first_task.npy')
+matrix = np.load('lab2/files/first_task.npy')
 size = matrix.size
 
 matrix_props = {
@@ -41,8 +41,8 @@ matrix_props['avgSD'] = matrix_props['sumSD'] / matrix.shape[0]
 for key in matrix_props.keys():
     matrix_props[key] = float(matrix_props[key])
 
-with open ('/root/lab2/files/results/task1_1.json', 'w', encoding = 'utf-8') as file:
+with open ('lab2/files/results/task1_1.json', 'w', encoding = 'utf-8') as file:
     json.dump(matrix_props, file, indent=1)
 
 norm_matrix = matrix / matrix_props['sum']
-np.save('/root/lab2/files/results/task1_2.npy', norm_matrix)
+np.save('lab2/files/results/task1_2.npy', norm_matrix)
