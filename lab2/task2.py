@@ -1,7 +1,7 @@
 import numpy as np
 import os
 
-matrix = np.load('/root/lab2/files/second_task.npy')
+matrix = np.load('lab2/files/second_task.npy')
 
 x = []
 y = []
@@ -17,8 +17,8 @@ for i in range(matrix.shape[0]):
 np.savez('/root/lab2/files/results/task2_1.npz', x=x, y=y, z=z)
 np.savez_compressed('/root/lab2/files/results/task2_2.npz', x=x, y=y, z=z)
 
-size1 = os.path.getsize('/root/lab2/files/results/task2_1.npz')
-size2 = os.path.getsize('/root/lab2/files/results/task2_2.npz')
+size1 = os.path.getsize('lab2/files/results/task2_1.npz')
+size2 = os.path.getsize('lab2/files/results/task2_2.npz')
 
 print(f'savez = {size1}')
 print(f'savez_compressed = {size2}')
